@@ -1,0 +1,15 @@
+Modifiers:
+Redstone: +20% Attack Speed per level, applied all at once; max level: 
+Diamond: 500 Flat Durability, +1 Flat Damage, 
+Emerald: 50% Bonus Base Durability
+Lapis: Luck
+Quartz: 
+
+
+
+Order of application:
+Embossment applies first, modifiers later on
+
+Also:
+Polishing kit; ergo armor toughness is irrelevant
+Sharpening kit; ergo mining level is irrelevant

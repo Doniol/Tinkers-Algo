@@ -1,0 +1,80 @@
+Name,Type,Unique?,Score
+Shocking,"Offense, Burst",Yes,7.0
+Lightweight,"Mining Speed, Offense, Attack Speed",Yes,4.0
+Unnatural,Mining Speed,Yes,7.0
+Holy,"Offense, Conditional Damage",Yes,6.0
+Petramor,Mining Durability,Yes,4.0
+Vanishing_II,Negative,No,1.0
+Direct,Utility,Yes,3.0
+Writeable,Modifier,Yes,6.0
+Crude,"Offense, Conditional Damage",Yes,5.0
+Crude_II,"Offense, Conditional Damage",Yes,6.0
+Vanishing_III,Negative,No,1.0
+Vanishing,Negative,No,1.0
+Enderference,Utility,Yes,6.0
+Dense,Durability,Yes,5.0
+Hellish,"Offense, Conditional Damage",Yes,6.0
+Flammable,Defence,Yes,4.0
+Splinters,Negative,Yes,1.0
+Alien,All,Yes,5.0
+Cheapskate,Negative,Yes,1.0
+Twilit,All,Yes,5.0
+Precipitate,Mining Speed,Yes,3.0
+Synergy,Durability,Yes,1.0
+Autosmelt,Utility,Yes,3.0
+Superheat,"Offense, Conditional Damage",Yes,5.0
+Stalwart,Defence,Yes,7.0
+Cheap,Negligible,Yes,3.0
+Crude_III,"Offense, Conditional Damage",Yes,7.0
+Prickly,Negligible,Yes,1.0
+Spiky,Defence,Yes,7.0
+Fractured,"Offense, Raw Damage",Yes,3.0
+Splintering,"Offense, Overtime Damage",Yes,3.0
+Duritae,Durability,Yes,6.0
+Jagged,"Offense, Conditional Damage",Yes,5.0
+Aquadynamic,Mining Speed,Yes,4.0
+Squeaky,Negative,Yes,1.0
+Magnetic_II,Utility,Yes,5.0
+Magnetic,Utility,Yes,4.0
+Baconlicious,Negligible,Yes,3.0
+Tasty,Utility,Yes,5.0
+Crumbling,Mining Speed,Yes,6.0
+Slimey,Negative,Yes,1.0
+Aridiculous,"Offense, Conditional Damage, Mining Speed",Yes,5.0
+Momentum,Mining Speed,Yes,5.0
+Stonebound,Mining Speed,Yes,4.0
+Insatiable,"Offense, Overtime Damage",Yes,7.0
+Cold_Blooded,"Offense, Burst",Yes,7.0
+Well_Established,Negligible,Yes,3.0
+Poisonous,"Offense, Overtime Damage",Yes,5.0
+Heavy,Defence,Yes,7.0
+Sharp,"Offense, Overtime Damage",Yes,7.0
+Stiff,Negligible,Yes,1.0
+Magically_Modifiable,Modifier,Yes,9.0
+Magically_Brittle,Negative,Yes,1.0
+Evil_Aura,Miscellaneous,Yes,1.0
+Experience_Boost,Utility,Yes,6.0
+Whispering,Negligible,Yes,1.0
+Global_Traveler,Utility,Yes,6.0
+Nick_of_Time,Utility,Yes,6.0
+Devils_Strength,"Offense, Raw Damage",Yes,5.0
+Sassy,"Offense, Damage",Yes,8.0
+Illuminati,Miscellaneous,Yes,6.0
+Brown_Magic,Utility,Yes,7.0
+Glowing,Miscellaneous,Yes,6.0
+Bloody_Mary,"Offense, Damage",Yes,10.0
+Anti_Corrosion,Defence,Yes,2.0
+Heavy_Metal,Offense,Yes,5.0
+Portly_Gentleman,Utility,Yes,5.0
+Elemental,Offense,Yes,7.0
+Thaumic,Modifier,No,5.0
+Botanical,Modifier,No,6.0
+Botanical_II,Modifier,Yes,7.0
+Ecological,Durability,Yes,3.0
+Mana,Negligible,Yes,1.0
+Terrafirma,Defence,Yes,5.0
+Terrafirma_II,Defence,Yes,6.0
+Democratic_Korea,Offense,Yes,6.0
+Ghastly,Defence,Yes,5.0
+Dark_Traveler,Offense,Yes,10.0
+None,Negligible,No,0.0
